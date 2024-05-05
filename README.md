@@ -27,3 +27,10 @@ The **Windows Event Log Analyzer** is a Python script designed to analyze Window
 
 **Run the Script: Execute the event_log_analyzer.py script using Python:**:
 python event_log_analyzer.py
+
+## Contributors
+Joshua Hemingway
+
+## License
+
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
